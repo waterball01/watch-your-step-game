@@ -8,7 +8,7 @@ A VGA-based game implemented in Verilog for the **Basys3 FPGA** development boar
 
 | Component | Details |
 |-----------|---------|
-| FPGA Board | [Digilent Basys3](https://digilentinc.com/Products/Detail.cfm?NavPath=2,400,1232&Prod=BASYS3) (Artix-7 XC7A35T) |
+| FPGA Board | Basys3 |
 | Development Tool | Xilinx Vivado (2019.x or later recommended) |
 | Display | VGA monitor (640×480 @ 60 Hz) |
 | Clock Input | 100 MHz onboard oscillator |
